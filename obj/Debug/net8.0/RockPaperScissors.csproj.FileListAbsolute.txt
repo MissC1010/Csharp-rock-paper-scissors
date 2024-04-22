@@ -1,0 +1,15 @@
+C:\Users\celin\OneDrive\Desktop\Rock paper scissors\RockPaperScissors\bin\Debug\net8.0\RockPaperScissors.exe
+C:\Users\celin\OneDrive\Desktop\Rock paper scissors\RockPaperScissors\bin\Debug\net8.0\RockPaperScissors.deps.json
+C:\Users\celin\OneDrive\Desktop\Rock paper scissors\RockPaperScissors\bin\Debug\net8.0\RockPaperScissors.runtimeconfig.json
+C:\Users\celin\OneDrive\Desktop\Rock paper scissors\RockPaperScissors\bin\Debug\net8.0\RockPaperScissors.dll
+C:\Users\celin\OneDrive\Desktop\Rock paper scissors\RockPaperScissors\bin\Debug\net8.0\RockPaperScissors.pdb
+C:\Users\celin\OneDrive\Desktop\Rock paper scissors\RockPaperScissors\obj\Debug\net8.0\RockPaperScissors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\celin\OneDrive\Desktop\Rock paper scissors\RockPaperScissors\obj\Debug\net8.0\RockPaperScissors.AssemblyInfoInputs.cache
+C:\Users\celin\OneDrive\Desktop\Rock paper scissors\RockPaperScissors\obj\Debug\net8.0\RockPaperScissors.AssemblyInfo.cs
+C:\Users\celin\OneDrive\Desktop\Rock paper scissors\RockPaperScissors\obj\Debug\net8.0\RockPaperScissors.csproj.CoreCompileInputs.cache
+C:\Users\celin\OneDrive\Desktop\Rock paper scissors\RockPaperScissors\obj\Debug\net8.0\RockPaperScissors.sourcelink.json
+C:\Users\celin\OneDrive\Desktop\Rock paper scissors\RockPaperScissors\obj\Debug\net8.0\RockPaperScissors.dll
+C:\Users\celin\OneDrive\Desktop\Rock paper scissors\RockPaperScissors\obj\Debug\net8.0\refint\RockPaperScissors.dll
+C:\Users\celin\OneDrive\Desktop\Rock paper scissors\RockPaperScissors\obj\Debug\net8.0\RockPaperScissors.pdb
+C:\Users\celin\OneDrive\Desktop\Rock paper scissors\RockPaperScissors\obj\Debug\net8.0\RockPaperScissors.genruntimeconfig.cache
+C:\Users\celin\OneDrive\Desktop\Rock paper scissors\RockPaperScissors\obj\Debug\net8.0\ref\RockPaperScissors.dll
